@@ -1,2 +1,2 @@
 # SurvivalAnalysisDemo
-This is a minimalist quick start demo for your delving into Survival Analysis journey! 
+This is a minimalist quick start demo for your delving into Survival Analysis journey, alongside a toy dataset! 
